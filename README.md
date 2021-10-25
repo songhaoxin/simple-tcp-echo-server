@@ -1,5 +1,5 @@
 # simple-tcp-echo-server
-A simple tcp echo server writted in Rust for 'the 7th substrate training course' organized by OneBlock+.
+A simple tcp echo server writted in Rust for 'the 7th substrate training course' organized by OneBlock+. All code references are from the Internet.
 
 # Build
 1. Build the tcp-echo-server:
